@@ -19,6 +19,8 @@ Its energy generation and distribution operations span a wide spectrum, from tra
 
 However, recent disruptions in the energy market have raised concerns about the company’s ability to maintain its operations and profitability in the face of unforeseen challenges(circumstances)
 
+![](renewable_energy_sources1.jpg)
+
 ## Business Overview/Problem
 _Energix Enterprise currently faces several significant challenges:_
 1.  **Fluctuations in Energy Demand and Supply:** The energy market experiences fluctuations due to market volatility and evolving consumer behavior. These variations impact the company's operations and profitability.
