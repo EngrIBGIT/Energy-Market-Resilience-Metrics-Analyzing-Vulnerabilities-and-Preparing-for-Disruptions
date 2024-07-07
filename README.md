@@ -274,6 +274,11 @@ From the graph, we observe:
 
 ![](images4.jpeg)
 
+
+## The Below Link is The code showing the analysis and Visualizations:
+
+https://github.com/EngrIBGIT/Energy-Market-Resilience-Metrics-Analyzing-Vulnerabilities-and-Preparing-for-Disruptions/blob/main/Energy_Market_Resilience_Metrics.ipynb
+
 ### General Insights:
 1. __Dynamic Energy Landscape:__ Energix Enterprise experiences marked variances in energy production, consumption, and demand patterns. There are distinct periods where the demand overshadows production, highlighting potential areas of concern in market stability and supply consistency.
 
